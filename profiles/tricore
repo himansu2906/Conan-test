@@ -1,0 +1,10 @@
+[settings]
+os=Windows
+compiler=gcc
+compiler.version=3.4
+compiler.libcxx=libstdc++
+arch=x86
+build_type=Release
+
+[conf]
+tools.cmake.cmaketoolchain:user_toolchain=["C:/Users/h.yadav/Desktop/Projects/Ex9/tool_chain/tricore-gcc.cmake"]
